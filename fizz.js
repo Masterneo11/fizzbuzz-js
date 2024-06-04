@@ -19,7 +19,4 @@ function fizzBuzz(){
         }
     }
     alert(`fizz buzz wooo `)
-
-
-
 }
